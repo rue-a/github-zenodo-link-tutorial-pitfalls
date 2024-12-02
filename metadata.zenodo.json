@@ -1,4 +1,6 @@
 {
   "description": "A test repository.",
-  "title": "GitHub-Zenodo-Integration-Pitfalls"
+  "title": "GitHub-Zenodo-Integration-Pitfalls",
+  "upload_type": "software",
+  "version": "3.0.0a0"
 }
