@@ -12,4 +12,4 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.10665221
 repository-code: 'https://github.com/rue-a/hofzuweisungslisten'
-license: GPL-3.0,MIT
+license: MIT
