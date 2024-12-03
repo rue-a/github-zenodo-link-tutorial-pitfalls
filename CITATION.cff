@@ -1,16 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
 title: GitHub-Zenodo-Integration-Test
-message: If you use this dataset, please cite it using the metadata from this file.
+message: my message
 type: dataset
 authors:
   - given-names: Arne
     family-names: Rümmler
     email: arne.ruemmler@slub-dresden.de
-    name-particle: Arne
     affiliation: SLUB Dresden
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.10665221
-repository-code: 'https://github.com/rue-a/hofzuweisungslisten'
+repository-code: 'http://www.test-repo-url.org'
+url: 'http://www.test-website-url.org'
+repository: 'http://www.test-other-repo-url.org'
+repository-artifact: 'http://www.test-artifact.org'
+abstract: description in cff file
+keywords:
+  - test
+  - zenodo
+  - github
 license: MIT
-version: 1.0.0
+commit: commit_id
+version: 1.2.3
+date-released: '2024-11-04'
