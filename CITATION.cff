@@ -13,3 +13,4 @@ identifiers:
     value: 10.5281/zenodo.10665221
 repository-code: 'https://github.com/rue-a/hofzuweisungslisten'
 license: MIT
+version: 1.0.0
