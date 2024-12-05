@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: GitHub-Zenodo-Integration-Test
+message: my message
+type: dataset
+authors:
+  - given-names: Arne
+    family-names: Rümmler
+    email: arne.ruemmler@slub-dresden.de
+    affiliation: SLUB Dresden
+identifiers:
+  - type: doi
+    value: 10.5072/zenodo.138646
+    description: Zenodo record
+  - type: url
+    value: 'https://arxiv.org/abs/2412.02772'
+    description: example arxiv url
+  - type: swh
+    value: 'swh:1:dir:23b21dea9549d449e72e6864722840ef9da7a1bc'
+    description: example Software Heritage id
+  - type: other
+    value: 'https://citation-file-format.github.io/'
+    description: example other identifier
+repository-code: 'http://www.test-repo-url.org'
+url: 'http://www.test-website-url.org'
+repository: 'http://www.test-other-repo-url.org'
+repository-artifact: 'http://www.test-artifact.org'
+abstract: description in cff file
+keywords:
+  - test
+  - zenodo
+  - github
+license: MIT
+commit: test commit_id
+version: 1.2.3
+date-released: '2024-11-04'
