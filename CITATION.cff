@@ -37,7 +37,9 @@ keywords:
   - test-cff
   - zenodo-cff
   - github-cff
-license: MIT
+license: 
+  - MIT
+  - Apache-2.0
 commit: cff test commit_id
 version: 1.2.3-cff
 date-released: '2024-11-04'
