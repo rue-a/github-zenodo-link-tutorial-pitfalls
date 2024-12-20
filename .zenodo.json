@@ -1,42 +1,54 @@
 {
     "creators": [
         {
-            "ror": "https://ror.org/042aqky30",
-            "affiliation": "Feline reasearch institute",
+            "affiliation": "test organization",
             "name": "Field, Gar",
-            "type": "organizational"
+            "identifiers": [
+                {
+                    "identifier": "0000 0004 0577 6676",
+                    "scheme": "isni"
+                },
+                {
+                    "identifier": "0000-0002-1825-0097",
+                    "scheme": "orcid"
+                }
+            ]
         },
         {
             "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
+            "affiliation": "test organization",
             "name": "Cat, Felix"
         },
         {
             "orcid": "0000-0002-1825-0097",
             "gnd": "170118215",
             "affiliations": [
-                {"name": "Feline reasearch institute"}, 
-                {"name": "Feline reasearch institute2"}
+                {
+                    "name": "test organization",
+                    "ror": "https://ror.org/042aqky30"
+                },
+                {
+                    "name": "test organization2",
+                    "identifier": "https://ror.org/042aqky30",
+                    "scheme": "ror"
+                }
             ],
             "name": "Cat, orcid und gnd"
         },
         {
             "gnd": "170118215",
-            "affiliation": "Feline reasearch institute",
+            "affiliation": "test organization",
             "name": "Cat, gnd"
         },
         {
             "gnd": "170118215",
             "orcid": "0000-0002-1825-0097",
-            "affiliation": "Feline reasearch institute",
+            "affiliation": "test organization",
             "name": "Cat, gnd und ocrid"
         }
     ],
-
     "license": "Apache-2.0",
-
-    "title": "zenodo gihub test",
-
+    "title": "zenodo github test",
     "related_identifiers": [
         {
             "scheme": "doi",
@@ -45,12 +57,19 @@
             "resource_type": "publication-article"
         }
     ],
-
-    "keywords": ["Cats", "Laser", "Behavior"],
-
-    "communities": [
-        {"identifier": "software-cats"}
+    "keywords": [
+        "Cats",
+        "Laser",
+        "Behavior"
     ],
-
-    "grants": [{"id":"777541"}]
+    "communities": [
+        {
+            "identifier": "software-cats"
+        }
+    ],
+    "grants": [
+        {
+            "id": "777541"
+        }
+    ]
 }
