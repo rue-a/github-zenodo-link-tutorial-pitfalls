@@ -14,9 +14,9 @@
         {
             "orcid": "0000-0002-1825-0097",
             "gnd": "170118215",
-            "affiliation": [
-                "Feline reasearch institute", 
-                "sdsd"
+            "affiliations": [
+                {"name": "Feline reasearch institute"}, 
+                {"name": "Feline reasearch institute2"}
             ],
             "name": "Cat, orcid und gnd"
         },
@@ -35,7 +35,7 @@
 
     "license": "Apache-2.0",
 
-    "title": "Red-Dot: ML-powered laser vector detection",
+    "title": "zenodo gihub test",
 
     "related_identifiers": [
         {
