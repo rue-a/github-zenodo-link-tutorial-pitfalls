@@ -1,10 +1,10 @@
 {
     "creators": [
         {
-            "isni": "0000000110297731",
+            "identifier": "0000000110297731",
             "affiliation": "Feline reasearch institute",
             "name": "Field, Gar",
-            "type": "Editor"
+            "role": "datacurator"
         },
         {
             "orcid": "0000-0002-1825-0097",
