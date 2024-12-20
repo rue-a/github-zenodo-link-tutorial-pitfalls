@@ -56,13 +56,44 @@
     ],
     "rights": [
         {
-            "id": "apache-2.0"
+            "description": {
+                "en": "A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+            },
+            "id": "apache-2.0",
+            "props": {
+                "scheme": "spdx",
+                "url": "http://www.apache.org/licenses/LICENSE-2.0"
+            },
+            "title": {
+                "en": "Apache License 2.0"
+            }
         },
         {
-            "id": "mit"
+            "description": {
+                "en": "A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code."
+            },
+            "id": "mit",
+            "props": {
+                "scheme": "spdx",
+                "url": "https://opensource.org/licenses/MIT"
+            },
+            "title": {
+                "en": "MIT License"
+            }
         },
         {
-            "id": "cc0-1.0"
+            "description": {
+                "en": "CC0 waives copyright interest in a work you've created and dedicates it to the world-wide public domain. Use CC0 to opt out of copyright entirely and ensure your work has the widest reach."
+            },
+            "icon": "cc-cc0-icon",
+            "id": "cc0-1.0",
+            "props": {
+                "scheme": "spdx",
+                "url": "https://creativecommons.org/publicdomain/zero/1.0/legalcode"
+            },
+            "title": {
+                "en": "Creative Commons Zero v1.0 Universal"
+            }
         }
     ],
     "title": "zenodo github test",
