@@ -1,4 +1,5 @@
 {
+    "upload_type": "dataset",
     "creators": [
         {
             "affiliation": "test organization",
@@ -24,13 +25,10 @@
             "gnd": "170118215",
             "affiliations": [
                 {
-                    "name": "test organization",
-                    "ror": "https://ror.org/042aqky30"
+                    "name": "test organization"
                 },
                 {
-                    "name": "test organization2",
-                    "identifier": "https://ror.org/042aqky30",
-                    "scheme": "ror"
+                    "name": "test organization2"
                 }
             ],
             "name": "Cat, orcid und gnd"
