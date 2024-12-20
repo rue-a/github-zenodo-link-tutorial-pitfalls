@@ -2,12 +2,12 @@
     "upload_type": "dataset",
     "description": "test description",
     "additional_descriptions": [
-      {
-        "description": "test notes",
-        "type": {
-          "id": "notes"
+        {
+            "description": "test notes",
+            "type": {
+                "id": "notes"
+            }
         }
-      }
     ],
     "creators": [
         {
@@ -54,7 +54,17 @@
             "name": "Cat, gnd und ocrid"
         }
     ],
-    "licenses": ["Apache-2.0", "MIT"],
+    "rights": [
+        {
+            "id": "apache-2.0"
+        },
+        {
+            "id": "mit"
+        },
+        {
+            "id": "cc0-1.0"
+        }
+    ],
     "title": "zenodo github test",
     "related_identifiers": [
         {
