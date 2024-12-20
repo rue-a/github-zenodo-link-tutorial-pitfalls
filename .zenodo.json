@@ -1,5 +1,6 @@
 {
     "upload_type": "dataset",
+    "description": "test description",
     "creators": [
         {
             "affiliation": "test organization",
