@@ -96,6 +96,9 @@
             }
         }
     ],
+    "custom_fields": {
+        "code:codeRepository": "https://test.org"
+    },
     "title": "zenodo github test",
     "related_identifiers": [
         {
