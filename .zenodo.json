@@ -14,7 +14,10 @@
         {
             "orcid": "0000-0002-1825-0097",
             "gnd": "170118215",
-            "affiliation": "Feline reasearch institute",
+            "affiliation": [
+                "Feline reasearch institute", 
+                "sdsd"
+            ],
             "name": "Cat, orcid und gnd"
         },
         {
