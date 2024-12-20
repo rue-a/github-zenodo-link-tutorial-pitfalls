@@ -1,6 +1,14 @@
 {
     "upload_type": "dataset",
     "description": "test description",
+    "additional_descriptions": [
+      {
+        "description": "test notes",
+        "type": {
+          "id": "notes"
+        }
+      }
+    ],
     "creators": [
         {
             "affiliation": "test organization",
