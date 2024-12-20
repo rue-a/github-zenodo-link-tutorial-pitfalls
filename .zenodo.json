@@ -1,10 +1,10 @@
 {
     "creators": [
         {
-            "identifier": "0000000110297731",
+            "ror": "https://ror.org/042aqky30",
             "affiliation": "Feline reasearch institute",
             "name": "Field, Gar",
-            "role": "datacurator"
+            "type": "organizational"
         },
         {
             "orcid": "0000-0002-1825-0097",
