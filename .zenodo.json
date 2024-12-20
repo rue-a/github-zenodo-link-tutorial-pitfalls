@@ -54,7 +54,7 @@
             "name": "Cat, gnd und ocrid"
         }
     ],
-    "license": "Apache-2.0",
+    "licenses": ["Apache-2.0", "MIT"],
     "title": "zenodo github test",
     "related_identifiers": [
         {
